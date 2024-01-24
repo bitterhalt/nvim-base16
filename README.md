@@ -40,6 +40,7 @@ local color = require('base16-colorscheme').colors.base01
 
 ```txt
 base16-3024
+base16-afterglow
 base16-apathy
 base16-apprentice
 base16-ashes
