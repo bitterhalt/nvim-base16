@@ -40,7 +40,6 @@ local color = require('base16-colorscheme').colors.base01
 
 ```txt
 base16-3024
-base16-afterglow
 base16-apathy
 base16-apprentice
 base16-ashes
@@ -69,6 +68,7 @@ base16-ayu-dark
 base16-ayu-light
 base16-ayu-mirage
 base16-bespin
+base16-bitterglow
 base16-black-metal
 base16-black-metal-bathory
 base16-black-metal-burzum
