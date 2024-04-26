@@ -18,6 +18,8 @@ require('base16-colorscheme').setup({
 })
 ```
 
+*Note: If you don't see colours, try adding `vim.opt.termguicolors = true` to your init.lua*
+
 # Advanced Usage
 
 ```lua
@@ -30,6 +32,7 @@ require('base16-colorscheme').with_config({
     ts_rainbow = true,
     cmp = true,
     illuminate = true,
+    dapui = true,
 })
 
 -- You can get the base16 colors **after** setting the colorscheme by name (base01, base02, etc.)
